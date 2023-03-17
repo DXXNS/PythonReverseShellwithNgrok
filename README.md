@@ -11,3 +11,6 @@
  `ngrok tcp *your port*`
 
  If you need any help with this just join my [discord server](https://discord.gg/WrKjFQ5a5C).
+
+
+If you want it to run completely undetected for any antivirus just change the name of the target file from `target.py` to `target.pyw` (Just add a w on the .py thingy)
