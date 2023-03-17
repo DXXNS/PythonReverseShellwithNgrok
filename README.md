@@ -15,7 +15,8 @@
  Edit the target file and put the 0.tcp.ngrok.io under the server host and the port 12345 under the server port section.
 
 
+If you want it to run completely undetected for any antivirus just change the name of the target file from `target.py` to `target.pyw` (Just add a w on the .py thingy)
+
+
  If you need any help with this just join my [discord server](https://discord.gg/WrKjFQ5a5C).
 
-
-If you want it to run completely undetected for any antivirus just change the name of the target file from `target.py` to `target.pyw` (Just add a w on the .py thingy)
